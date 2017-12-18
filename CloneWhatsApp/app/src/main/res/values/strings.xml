@@ -1,1 +1,1 @@
-<resources>    <string name="app_name">CloneWhatsApp</string>    <string name="title_activity_login">LoginActivity</string></resources>
+<resources>    <string name="app_name">CloneWhatsApp</string>    <string name="title_activity_login">LoginActivity</string>    <string name="btn_validar">validar</string></resources>
