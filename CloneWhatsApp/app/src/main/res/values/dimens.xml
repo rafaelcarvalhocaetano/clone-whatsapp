@@ -1,1 +1,1 @@
-<resources>    <dimen name="fab_margin">16dp</dimen>    <dimen name="largura_logo">200dp</dimen>    <dimen name="altura_logo">163dp</dimen>    <dimen name="validador">24dp</dimen>    <dimen name="largura_sms">150dp</dimen>    <dimen name="btn_largura">350dp</dimen></resources>
+<resources>    <dimen name="fab_margin">16dp</dimen>    <dimen name="validador">24dp</dimen>    <dimen name="largura_logo">300dp</dimen>    <dimen name="altura_logo">200dp</dimen></resources>
