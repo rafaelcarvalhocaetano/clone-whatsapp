@@ -26,9 +26,10 @@ public class Preferencias {
     public void salvarDados( String uidUser){
 
         editor.putString(CHAVE_UID, uidUser);
-
         editor.commit();
-
+    }
+    public String getIdentificador(){
+        return preferences.getString(CHAVE_UID, null);
     }
 
 
