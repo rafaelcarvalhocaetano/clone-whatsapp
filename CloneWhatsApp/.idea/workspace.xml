@@ -109,8 +109,8 @@
       <file leaf-file-name="ConversaActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/ConversaActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+            <state relative-caret-position="358">
+              <caret line="139" column="53" lean-forward="false" selection-start-line="139" selection-start-column="53" selection-end-line="139" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/adapter/MensagemAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+              <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1920,12 +1920,12 @@
         <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/fragment/ContatosFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_conversa.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/adapter/ConversaActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/ConversaActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_mensagem_direita.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_mensagem_esquerda.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/adapter/MMensagemAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/adapter/MensagemAdapterr.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/adapter/MensagemAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/ConversaActivity.java" />
       </list>
     </option>
   </component>
@@ -2339,7 +2339,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513894800534" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513896302170" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2387,7 +2387,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513894800534" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513896302170" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2570,7 +2570,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513894800535" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513896302170" />
       </method>
     </configuration>
     <list size="2">
@@ -3064,7 +3064,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/adapter/MensagemAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <caret line="43" column="32" lean-forward="false" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -3073,8 +3073,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/io/whatsapp/clonewhatsapp/ConversaActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="358">
+          <caret line="139" column="53" lean-forward="false" selection-start-line="139" selection-start-column="53" selection-end-line="139" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
