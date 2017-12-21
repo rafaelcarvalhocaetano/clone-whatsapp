@@ -14,6 +14,7 @@ public class Preferencias {
     private SharedPreferences.Editor editor;
 
     private final String CHAVE_UID = "identificadorUsuarioLogado";
+    private final String CHAVE_NOME = "nomeUsuarioLogado";
 
     public Preferencias( Context contextoParametro){
 
@@ -23,13 +24,18 @@ public class Preferencias {
 
     }
 
-    public void salvarDados( String uidUser){
+    public void salvarDados( String uidUser, String nomeUsuario){
 
         editor.putString(CHAVE_UID, uidUser);
+        editor.putString(CHAVE_NOME, nomeUsuario);
         editor.commit();
     }
     public String getIdentificador(){
         return preferences.getString(CHAVE_UID, null);
+    }
+
+    public String getNome(){
+        return preferences.getString(CHAVE_NOME, null);
     }
 
 
